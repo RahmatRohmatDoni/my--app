@@ -4,7 +4,7 @@ export default function LearnPage(){
         <div className ="bg-purple-300 p-8 h-72 w-72 rounded-4xl flex flex-col justify-between text-blue-950" >
             <div className = "flex gap-4 " >
                 <img src="palette.svg" alt="testting"/>
-                <p className="font-bold">Design</p>
+                <p className="font-bold">Designs</p>
             </div>
             <div>
                 <h2 className="text-4xl font bold" >Figma</h2>
